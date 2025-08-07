@@ -10,9 +10,9 @@
         "types": "./src/add.ts",
         "default": "./dist/add.js"
       },
-      "./subtract": {
-        "types": "./src/subtract.ts",
-        "default": "./dist/subtract.js"
+      "./sub": {
+        "types": "./src/sub.ts",
+        "default": "./dist/sub.js"
       }
     },
     "devDependencies": {
